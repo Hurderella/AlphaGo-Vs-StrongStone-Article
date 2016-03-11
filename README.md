@@ -3,4 +3,4 @@
 
 1. 이세돌이 알파고를 이기려면 선입견을 버려야 한다. 해맑은아찌. http://blog.daum.net/sadprince57/3331
 2. 바둑인을 위한 알파고. 이동헌(donghun2014@gmail.com). http://www.slideshare.net/DonghunLee20/ss-59413793
-3. 딥 러닝의 최근 성과들 #1 azurespace. http://pgr21.com/pb/pb.php?id=freedom&no=57937
+3. 딥 러닝의 최근 성과들 #1. azurespace. http://pgr21.com/pb/pb.php?id=freedom&no=57937
