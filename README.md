@@ -5,3 +5,4 @@
 2. 바둑인을 위한 알파고. || 이동헌(donghun2014@gmail.com). http://www.slideshare.net/DonghunLee20/ss-59413793
 3. 딥 러닝의 최근 성과들 #1. || azurespace. http://pgr21.com/pb/pb.php?id=freedom&no=57937
 4. 인공지능(AI)은 어떻게 발달해왔는가, 인공지능의 역사. || 엔비 http://blog.naver.com/kor_nvidia/220653718667
+5. AlphaGo || www.aistudy.com http://www.aistudy.com/demo/alphago.htm
