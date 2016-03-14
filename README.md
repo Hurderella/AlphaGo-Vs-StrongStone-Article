@@ -12,3 +12,4 @@ Articles of about AlphaGo vs Strong Stone(이세돌)
 5. AlphaGo || www.aistudy.com http://www.aistudy.com/demo/alphago.htm
 6. 바둑적/인공지능적 관점에서 분석한 알파고 1,2국 || Terry TaeWoong Um http://t-robotics.blogspot.kr/2016/03/12.html?m=1
 7. AlphaGo : AlphaGo Pipeline 헤집기 || Beomsu Kim (김범수, @shuuki4) https://shuuki4.wordpress.com/2016/03/11/alphago-alphago-pipeline-헤집기/
+8. 딥마인드: 구글의 슈퍼 두뇌 살펴보기, DeepMind: inside Google's super-brain || 번역 masterfarseer http://masterfarseer.blogspot.kr/2016/03/blog-post.html
