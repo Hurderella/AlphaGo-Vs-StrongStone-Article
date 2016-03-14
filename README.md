@@ -1,4 +1,4 @@
-# AlphaGo-Vs-StrongStone-Article
+# AlphaGo-Vs-StrongStone-Article(이세돌)
 알파고와 알파고에 적용된 딥러닝, 인공지능과 관련된 글들을 수집. 
 
 
