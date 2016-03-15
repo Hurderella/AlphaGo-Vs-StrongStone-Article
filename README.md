@@ -24,4 +24,14 @@ http://t-robotics.blogspot.kr/2016/03/12.html?m=1
 7. AlphaGo : AlphaGo Pipeline 헤집기 || Beomsu Kim (김범수, @shuuki4)
 https://shuuki4.wordpress.com/2016/03/11/alphago-alphago-pipeline-헤집기/
 
-8. 딥마인드: 구글의 슈퍼 두뇌 살펴보기, DeepMind: inside Google's super-brain || 번역 masterfarseer http://masterfarseer.blogspot.kr/2016/03/blog-post.html
+8. 딥마인드: 구글의 슈퍼 두뇌 살펴보기, DeepMind: inside Google's super-brain || 번역 masterfarseer 
+http://masterfarseer.blogspot.kr/2016/03/blog-post.html
+
+9. 알파고의 떡수는 곧 사망선고다: 알파고에 대한 인공지능적 고찰 || 
+Terry http://slownews.kr/52270
+
+10. 쉽게 풀어쓴 딥 러닝의 거의 모든 것 || Terry 
+http://slownews.kr/41461
+
+11. 인류 지적 수준을 넘보는 바둑 인공지능 '알파고' 알파고(AlphaGo) || 오원석 블로터 기자 
+http://m.navercast.naver.com/mobile_contents.nhn?rid=122&contents_id=109419
