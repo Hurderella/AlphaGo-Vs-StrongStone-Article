@@ -7,6 +7,7 @@
 
 http://blog.daum.net/sadprince57/3331
 
+
 2. 바둑인을 위한 알파고. || 이동헌(donghun2014@gmail.com). 
 http://www.slideshare.net/DonghunLee20/ss-59413793
 
